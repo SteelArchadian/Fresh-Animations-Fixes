@@ -10,3 +10,6 @@ The two models here are edited copies of FA Extensions models (helmet part remov
 Made with AI assistance.
 
 License: remix of FreshLX's models under their terms; see credits. Golem and sheep textures are not included.
+
+## Feedback
+Found a problem or want another fix? Please open an [Issue](https://github.com/SteelArchadian/Fresh-Animations-Fixes/issues); ideas are welcome too.

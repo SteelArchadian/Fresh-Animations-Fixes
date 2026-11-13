@@ -1,6 +1,6 @@
 <picture><img src="https://raw.githubusercontent.com/SteelArchadian/Fresh-Animations-Fixes/main/.github/page/banner.gif" alt="Fresh Animations Fixes"></picture>
 
-<a href="https://modrinth.com/resourcepack/fresh-animations-fixes"><img src="https://raw.githubusercontent.com/SteelArchadian/Fresh-Animations-Fixes/main/.github/page/tile-modrinth.png" alt="Modrinth"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations-fixes"><img src="https://raw.githubusercontent.com/SteelArchadian/Fresh-Animations-Fixes/main/.github/page/tile-curseforge.png" alt="CurseForge"></a>
+<p align="center"><a href="https://modrinth.com/resourcepack/fresh-animations-fixes"><img src="https://raw.githubusercontent.com/SteelArchadian/Fresh-Animations-Fixes/main/.github/page/tile-modrinth.png" width="150" alt="Modrinth"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations-fixes"><img src="https://raw.githubusercontent.com/SteelArchadian/Fresh-Animations-Fixes/main/.github/page/tile-curseforge.png" width="150" alt="CurseForge"></a></p>
 
 <picture><img src="https://raw.githubusercontent.com/SteelArchadian/Fresh-Animations-Fixes/main/.github/page/head-0.png" alt=""></picture>
 

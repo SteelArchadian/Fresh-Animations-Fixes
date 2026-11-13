@@ -9,5 +9,3 @@
 <a href="https://github.com/SteelArchadian/Fresh-Animations-Fixes/issues"><img src="https://raw.githubusercontent.com/SteelArchadian/Fresh-Animations-Fixes/main/.github/page/ideas.png" alt="Got an idea?"></a>
 
 Made with AI assistance.
-
-<sub>More technical details: [docs/DETAILS.md](docs/DETAILS.md)</sub>
